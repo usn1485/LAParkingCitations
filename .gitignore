@@ -108,3 +108,6 @@ venv.bak/
 
 # Ignoring dataset
 los-angeles-parking-citations/
+
+# Ignoring DS_Store
+.DS_Store
