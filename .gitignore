@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+#Ignore Datafolder
+los-angeles-parking-citations/
+
 
 # Distribution / packaging
 .Python
