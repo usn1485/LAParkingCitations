@@ -10,16 +10,16 @@ Outline: Our project is to analyze LA Parking Citations uncovering patterns in a
 
 Research Questions:
 
-    -Are there worse times of day when tickets are written?
-    -Certain streets worse than others?
-    -Do certain cars get more tickets than others?
-    -Do certain areas get different fines than others? Do violations get the exact same amount of fine?
-    -Does having soon to be expired plates make you more at risk for a ticket?
-    -Do foreign made cars receive more or less tickets?
+   -Are there worse times of day when tickets are written?
+   -Certain streets worse than others?
+   -Do certain cars get more tickets than others?
+   -Do certain areas get different fines than others? Do violations get the exact same amount of fine?
+   -Does having soon to be expired plates make you more at risk for a ticket?
+   -Do foreign made cars receive more or less tickets?
   
  Datasets to be used:
  
-    https://www.kaggle.com/cityofLA/los-angeles-parking-citations
+   https://www.kaggle.com/cityofLA/los-angeles-parking-citations
     
  Tasks: 
  Ujwala: Time and date information
