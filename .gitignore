@@ -3,10 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Ignore Test101.ipynb
+/test101.ipynb
+Testfile.txt
+
 # C extensions
 *.so
 #Ignore Datafolder
-los-angeles-parking-citations/
+Data/
 
 
 # Distribution / packaging
@@ -108,6 +112,3 @@ venv.bak/
 
 # Ignoring dataset
 los-angeles-parking-citations/
-
-# Ignoring DS_Store
-.DS_Store
