@@ -13,6 +13,9 @@ Testfile.txt
 Data/
 
 
+# datasets
+parking-citations.csv
+
 # Distribution / packaging
 .Python
 build/
