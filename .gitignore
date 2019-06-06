@@ -115,3 +115,14 @@ venv.bak/
 
 # Ignoring dataset
 los-angeles-parking-citations/
+
+
+# Ignoring DS_Store
+.DS_Store
+
+# Ignoring api key
+config.py
+
+# Ignore original notebook
+LA_Parking_Kevin.ipynb
+
