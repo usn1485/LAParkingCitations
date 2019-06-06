@@ -3,11 +3,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Ignore Test101.ipynb
+/test101.ipynb
+Testfile.txt
+/LAParking.ipynb
 # C extensions
 *.so
 #Ignore Datafolder
-los-angeles-parking-citations/
+Data/
 
+
+# datasets
+parking-citations.csv
 
 # Distribution / packaging
 .Python
@@ -109,6 +116,7 @@ venv.bak/
 # Ignoring dataset
 los-angeles-parking-citations/
 
+
 # Ignoring DS_Store
 .DS_Store
 
@@ -117,3 +125,4 @@ config.py
 
 # Ignore original notebook
 LA_Parking_Kevin.ipynb
+
