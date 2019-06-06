@@ -6,7 +6,7 @@ __pycache__/
 #Ignore Test101.ipynb
 /test101.ipynb
 Testfile.txt
-
+/LAParking.ipynb
 # C extensions
 *.so
 #Ignore Datafolder
